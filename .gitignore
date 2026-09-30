@@ -4,6 +4,9 @@
 # 个人实战产物：内容源自第三方文本，仅本地保留
 output/
 
+# 本地工具（GitHub CLI 等）：二进制文件，体积大，不随仓库公开
+tools/
+
 # 系统与编辑器残留
 .DS_Store
 Thumbs.db
