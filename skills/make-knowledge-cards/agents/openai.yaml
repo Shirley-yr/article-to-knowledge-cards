@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn an article or .md/.txt file into 5-8 knowledge cards"
+  default_prompt: "Turn my article into 5-8 knowledge cards."

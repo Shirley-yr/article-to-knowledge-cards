@@ -1,0 +1,16 @@
+# 本地工作区与私人笔记（开发日志，不随仓库公开）
+.workbuddy/
+
+# 个人实战产物：内容源自第三方文本，仅本地保留
+output/
+
+# 系统与编辑器残留
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时与备份文件
+*.tmp
+*.bak
+*.swp
+*~
